@@ -54,7 +54,9 @@ Examen realizado el 20/11/2023
 [Documentación de la tarea realizada utilizando Apache2 para la creación de una web para el examen](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md)
 
 ## Resultados y Conclusiones
-[...]
+### Resultados Obtenidos
+### Comparación con Otros
+### Valoración Personal
 
 ## Bibliografía
 - Documentos y recursos proporcionados por la institución educativa.
