@@ -15,7 +15,6 @@ mkdir /var/www/examenMQA
 chmod 777 /var/www/examenMQA
 ```
 ![Creación nuevo directorio](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(1)%20inicio_apache2.png)
-
 ![Permisos al nuevo directorio y creción indexhtml](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(2)%20creacion_index_html.png)
 
 2. Usar el editor nano para crear y editar el archivo index.html:
