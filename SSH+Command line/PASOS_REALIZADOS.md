@@ -9,7 +9,7 @@ Este documento proporciona una guía paso a paso para conectarse a una máquina 
 ```bash
 ssh -p 22 usuario@192.168.0.148
 ```
-![Login en escritorio remoto](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/login_en_escritorio_remoto.png)
+![Login en escritorio remoto](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/Images/login_en_escritorio_remoto.png)
 
 ### 2. Navegar al Escritorio
 
@@ -34,4 +34,4 @@ whoami > nombre.txt
 ```bash
 who >> nombre.txt
 ```
-![creacion_archivotxt](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/creacion_manuelaicart.png)
+![creacion_archivotxt](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/Images/creacion_manuelaicart.png)
