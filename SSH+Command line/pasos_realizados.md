@@ -7,7 +7,7 @@ Este documento proporciona una guía paso a paso para conectarse a una máquina 
 ### 1. Conexión SSH
 
 ```bash
-ssh -p 22 usuario@192.168.0.148
+ssh -p 22 usuario@192.168.0.148```
 
 ### 2. Navegar al Escritorio
 
