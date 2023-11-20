@@ -12,7 +12,7 @@ systemctl status apache2
 
 ### 1. Crear y editar index.html
 
-1. Creando un nuevo directorio para la web y otorgar permisos:
+1. Crear un nuevo directorio para la web y otorgar permisos:
 
 ```bash
 mkdir /var/www/examenMQA
@@ -42,25 +42,48 @@ nano /var/www/examenMQA/index.html
 
 ### 2. Configurar VirtualHost
 
-```bash
-cd /Escritorio
-```
-
-### 3. Crear un Archivo de Texto
+1. Crear un archivo de configuración virtual host para la web:
 
 ```bash
-touch nombre.txt
+nano /etc/apache2/sites-available/examenMQA.conf
 ```
+![Creación archivo conf](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(4)%20creacion_examenMQA_conf.png)
 
-### 4. Escribir el Nombre de Usuario en el Archivo
+2. Contenido del archivo conf:
+
+```apacheconf
+<VirtualHost *:80>
+    ServerAdmin querolmanel@gmail.com
+    DocumentRoot /var/www/examenMQA
+    ServerName daw.ejercicio3.com
+</VirtualHost>
+```
+![Contenido archivo conf](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(5)%20contenido_examenMQA_conf.png)
+
+### 3. Editar /etc/hosts
+
+1. Editar el archivo /etc/hosts para mapear el dominio a la IP local:
 
 ```bash
-whoami > nombre.txt
+nano /etc/hosts
 ```
+![Editar archivo hosts](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(6)%20edicion_etchosts.png)
 
-### 5. Agregar Información de Usuarios Conectados
+```hosts
+127.0.0.1 daw.ejercicio3.com
+```
+![Linia a añadir en hosts](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(7)%20contenido_etchosts.png)
+
+### 4. Habilitar el sitio y recargar Apache2
+
+1. Habilitar la nueva configuración del sitio:
 
 ```bash
-who >> nombre.txt
+a2ensite examenMQA.conf
+systemctl reload apache2
 ```
-![creacion_archivotxt](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/Images/creacion_manuelaicart.png)
+![Habilitar y recargar apache](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(8)%20final_examenMQA.png)
+
+### 5. Resultado
+
+![Resultado final](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(9)%20resultado.png)
