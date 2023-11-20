@@ -28,9 +28,8 @@ Examen realizado el 20/11/2023
    - [Edición de /etc/hosts](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#3-editar-etchosts)
    - [Habilitación y Recarga de Apache2](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#4-habilitar-el-sitio-y-recargar-apache2)
 4. [Resultados y Conclusiones](https://github.com/Arzeld/examenMQA/blob/main/README.md#resultados-y-conclusiones)
-   - Resultados Obtenidos
-   - Comparación con Otros
-   - Valoración Personal
+   - [Resultados Obtenidos](https://github.com/Arzeld/examenMQA/blob/main/README.md#resultados-obtenidos)
+   - [Valoración Personal](https://github.com/Arzeld/examenMQA/blob/main/README.md#valoraci%C3%B3n-personal)
 5. [Bibliografía](https://github.com/Arzeld/examenMQA/blob/main/README.md#bibliograf%C3%ADa)
 6. [Anexos](https://github.com/Arzeld/examenMQA/blob/main/README.md#anexos)
 
