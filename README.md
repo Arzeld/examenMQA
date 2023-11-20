@@ -48,10 +48,10 @@ Examen realizado el 20/11/2023
 > La elección de Apache para este proyecto se debe a su amplia adopción, gran comunidad de soporte y flexibilidad en diferentes entornos de hosting. El objetivo es adquirir habilidades prácticas en la configuración y gestión de servidores web, así como en la administración remota de sistemas usando SSH. <
 
 ## SSH: Creación y Edición de Archivos
-[Documentación de la tarea realizada en SSH para el examen](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md)
+> [Documentación de la tarea realizada en SSH para el examen](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md) <
 
 ## Apache2 Web Server: Setup y Configuración
-[Documentación de la tarea realizada utilizando Apache2 para la creación de una web para el examen](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md)
+> [Documentación de la tarea realizada utilizando Apache2 para la creación de una web para el examen](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md)
 
 ## Resultados y Conclusiones
 ### Resultados Obtenidos
