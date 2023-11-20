@@ -8,6 +8,7 @@ systemctl status apache2
 
 ## Pasos
 ### 1. Crear y editar index.html
+
 1. Crear un nuevo directorio para la web y otorgar permisos:
 
 ```bash
@@ -63,7 +64,6 @@ nano /etc/apache2/sites-available/examenMQA.conf
 nano /etc/hosts
 ```
 ![Editar archivo hosts](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(6)%20edicion_etchosts.png)
-
 ```hosts
 127.0.0.1 daw.ejercicio3.com
 ```
