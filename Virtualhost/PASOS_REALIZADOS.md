@@ -1,7 +1,5 @@
 # Documentación Apache2 Web Server: Setup y configuración
-
 # Starting Apache2 Service
-
 ### Comprobar el estado de Apache2 service:
 
 ```bash
@@ -9,7 +7,6 @@ systemctl status apache2
 ```
 
 ## Pasos
-
 ### 1. Crear y editar index.html
 
 1. Crear un nuevo directorio para la web y otorgar permisos:
