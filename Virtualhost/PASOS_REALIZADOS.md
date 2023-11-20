@@ -8,7 +8,6 @@ systemctl status apache2
 
 ## Pasos
 ### 1. Crear y editar index.html
-
 1. Crear un nuevo directorio para la web y otorgar permisos:
 
 ```bash
