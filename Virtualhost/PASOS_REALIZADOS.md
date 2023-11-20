@@ -1,5 +1,5 @@
 # Documentación Apache2 Web Server: Setup y configuración
-# Starting Apache2 Service
+## Starting Apache2 Service
 ### Comprobar el estado de Apache2 service:
 
 ```bash
