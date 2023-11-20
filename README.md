@@ -33,3 +33,33 @@ Este documento es una memoria detallada del proyecto realizado, que comprende do
    - Valoración Personal
 5. Bibliografía
 6. Anexos
+
+## Introducción
+### Contexto
+Este proyecto se ha desarrollado en el entorno académico, dentro de un equipo de estudiantes de tecnologías de la información. Se ha realizado en colaboración con profesores y compañeros, proporcionando un entorno de aprendizaje rico y diverso.
+
+### Entorno: Apache
+Apache es un software de servidor web de código abierto ampliamente utilizado. Fue desarrollado por la Apache Software Foundation y es conocido por su robustez, flexibilidad y rendimiento. La historia de Apache se remonta a principios de la década de 1990, y desde entonces se ha convertido en uno de los servidores web más populares en el mundo.
+
+### Alternativas
+Existen varias alternativas a Apache, como NGINX, Microsoft IIS y Lighttpd. Cada una ofrece diferentes características y ventajas, como mejor manejo de conexiones simultáneas o integración con otros sistemas Microsoft.
+
+### Motivación
+La elección de Apache para este proyecto se debe a su amplia adopción, gran comunidad de soporte y flexibilidad en diferentes entornos de hosting. El objetivo es adquirir habilidades prácticas en la configuración y gestión de servidores web, así como en la administración remota de sistemas usando SSH.
+
+## SSH: Creación y Edición de Archivos
+[...]
+
+## Apache2 Web Server: Setup y Configuración
+[...]
+
+## Resultados y Conclusiones
+[...]
+
+## Bibliografía
+- Documentos y recursos proporcionados por la institución educativa.
+- Documentación oficial de Apache.
+- Tutoriales y guías en línea sobre SSH y Apache2.
+
+## Anexos
+- Capturas de pantalla y recursos gráficos utilizados en el proyecto.
