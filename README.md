@@ -36,22 +36,22 @@ Examen realizado el 20/11/2023
 
 ## Introducción
 ### Contexto
-Este proyecto se ha desarrollado en el entorno académico, dentro de un equipo de estudiantes de tecnologías de la información. Se ha realizado en colaboración con profesores y compañeros, proporcionando un entorno de aprendizaje rico y diverso.
+> Este proyecto se ha desarrollado en el entorno académico, dentro de un equipo de estudiantes de tecnologías de la información. Se ha realizado en colaboración con profesores y compañeros, proporcionando un entorno de aprendizaje rico y diverso. <
 
 ### Entorno: Apache
-Apache es un software de servidor web de código abierto ampliamente utilizado. Fue desarrollado por la Apache Software Foundation y es conocido por su robustez, flexibilidad y rendimiento. La historia de Apache se remonta a principios de la década de 1990, y desde entonces se ha convertido en uno de los servidores web más populares en el mundo.
+> Apache es un software de servidor web de código abierto ampliamente utilizado. Fue desarrollado por la Apache Software Foundation y es conocido por su robustez, flexibilidad y rendimiento. La historia de Apache se remonta a principios de la década de 1990, y desde entonces se ha convertido en uno de los servidores web más populares en el mundo. <
 
 ### Alternativas
-Existen varias alternativas a Apache, como NGINX, Microsoft IIS y Lighttpd. Cada una ofrece diferentes características y ventajas, como mejor manejo de conexiones simultáneas o integración con otros sistemas Microsoft.
+> Existen varias alternativas a Apache, como NGINX, Microsoft IIS y Lighttpd. Cada una ofrece diferentes características y ventajas, como mejor manejo de conexiones simultáneas o integración con otros sistemas Microsoft. <
 
 ### Motivación
-La elección de Apache para este proyecto se debe a su amplia adopción, gran comunidad de soporte y flexibilidad en diferentes entornos de hosting. El objetivo es adquirir habilidades prácticas en la configuración y gestión de servidores web, así como en la administración remota de sistemas usando SSH.
+> La elección de Apache para este proyecto se debe a su amplia adopción, gran comunidad de soporte y flexibilidad en diferentes entornos de hosting. El objetivo es adquirir habilidades prácticas en la configuración y gestión de servidores web, así como en la administración remota de sistemas usando SSH. <
 
 ## SSH: Creación y Edición de Archivos
-[...]
+[Documentación de la tarea realizada en SSH para el examen](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md)
 
 ## Apache2 Web Server: Setup y Configuración
-[...]
+[Documentación de la tarea realizada utilizando Apache2 para la creación de una web para el examen](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md)
 
 ## Resultados y Conclusiones
 [...]
