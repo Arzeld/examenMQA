@@ -66,3 +66,5 @@ Examen realizado el 20/11/2023
 
 ## Anexos
 - Capturas de pantalla y recursos gráficos utilizados en el proyecto.
+> [Imagenes SSH](https://github.com/Arzeld/examenMQA/tree/main/SSH%2BCommand%20line/Images)
+> [Imagenes Apache2](https://github.com/Arzeld/examenMQA/tree/main/Virtualhost/Images)
