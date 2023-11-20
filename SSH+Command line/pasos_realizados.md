@@ -8,3 +8,23 @@ Este documento proporciona una guía paso a paso para conectarse a una máquina 
 
 ```bash
 ssh -p 22 usuario@192.168.0.148
+
+### 2. Navegar al Escritorio
+
+```bash
+cd /Escritorio
+
+### 3. Crear un Archivo de Texto
+
+```bash
+touch nombre.txt
+
+### 4. Escribir el Nombre de Usuario en el Archivo
+
+```bash
+whoami > nombre.txt
+
+### 5. Agregar Información de Usuarios Conectados
+
+```bash
+who >> nombre.txt
