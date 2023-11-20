@@ -18,15 +18,15 @@ Examen realizado el 20/11/2023
    - [Alternativas](https://github.com/Arzeld/examenMQA/blob/main/README.md#alternativas)
    - [Motivación](https://github.com/Arzeld/examenMQA/blob/main/README.md#motivaci%C3%B3n)
 2. [SSH: Creación y Edición de Archivos](https://github.com/Arzeld/examenMQA/blob/main/README.md#ssh-creaci%C3%B3n-y-edici%C3%B3n-de-archivos)
-   - Conexión SSH
-   - Creación de Archivos
-   - Edición y Gestión de Archivos
+   - [Conexión SSH](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md#1-conexi%C3%B3n-ssh)
+   - [Creación de Archivos](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md#3-crear-un-archivo-de-texto)
+   - [Edición y Gestión de Archivos](https://github.com/Arzeld/examenMQA/blob/main/SSH%2BCommand%20line/PASOS_REALIZADOS.md#5-agregar-informaci%C3%B3n-de-usuarios-conectados)
 3. [Apache2 Web Server: Setup y Configuración](https://github.com/Arzeld/examenMQA/blob/main/README.md#apache2-web-server-setup-y-configuraci%C3%B3n)
-   - Comprobación de Estado
-   - Creación de index.html
-   - Configuración de VirtualHost
-   - Edición de /etc/hosts
-   - Habilitación y Recarga de Apache2
+   - [Comprobación de Estado](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#comprobar-el-estado-de-apache2-service)
+   - [Creación de index.html](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#1-crear-y-editar-indexhtml)
+   - [Configuración de VirtualHost](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#2-configurar-virtualhost)
+   - [Edición de /etc/hosts](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#3-editar-etchosts)
+   - [Habilitación y Recarga de Apache2](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/PASOS_REALIZADOS.md#4-habilitar-el-sitio-y-recargar-apache2)
 4. [Resultados y Conclusiones](https://github.com/Arzeld/examenMQA/blob/main/README.md#resultados-y-conclusiones)
    - Resultados Obtenidos
    - Comparación con Otros
