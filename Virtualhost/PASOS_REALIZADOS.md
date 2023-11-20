@@ -18,7 +18,6 @@ systemctl status apache2
 mkdir /var/www/examenMQA
 chmod 777 /var/www/examenMQA
 ```
-
 ![Creación nuevo directorio](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(1)%20inicio_apache2.png)
 
 ![Permisos al nuevo directorio y creción indexhtml](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(2)%20creacion_index_html.png)
@@ -28,9 +27,6 @@ chmod 777 /var/www/examenMQA
 ```bash
 nano /var/www/examenMQA/index.html
 ```
-
-![Contenido indexhtml](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(3)%20contenido_index.png)
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -42,6 +38,7 @@ nano /var/www/examenMQA/index.html
   </body>
 </html>
 ```
+![Contenido indexhtml](https://github.com/Arzeld/examenMQA/blob/main/Virtualhost/Images/(3)%20contenido_index.png)
 
 ### 2. Configurar VirtualHost
 
